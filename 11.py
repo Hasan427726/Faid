@@ -76,7 +76,6 @@ def ip():
     print 47 * '-'
     print ' Loading ...'
     time.sleep(1)
-    mohammad()
 
 
 def method_menu():
